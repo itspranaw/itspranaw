@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranaw
-- 👀 I’m interested in Web Development and Web app Safety 
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently persuing CS degree 
 - 💞️ I’m looking to collaborate on three.js projects
 - 📫 twt:@thepranaw 
